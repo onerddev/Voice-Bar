@@ -27,7 +27,7 @@ Uma barra de voz flutuante que fica sempre visível na sua tela.
 
 ---
 
-## ⚙️ Configuração
+##  Configuração
 
 1. Clique no ícone de **engrenagem** na barra
 2. Cole sua **chave API Groq** (obtenha grátis em https://console.groq.com)
