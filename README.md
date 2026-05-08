@@ -1,10 +1,10 @@
-# 🎙️ VoiceBar — Assistente de Voz Desktop
+#  VoiceBar — Assistente de Voz Desktop
 
 Uma barra de voz flutuante que fica sempre visível na sua tela.
 
 ---
 
-## 🚀 Como instalar e rodar
+##  Como instalar e rodar
 
 ### Pré-requisitos
 - **Node.js** (versão 18 ou superior) → https://nodejs.org
@@ -36,7 +36,7 @@ Uma barra de voz flutuante que fica sempre visível na sua tela.
 
 ---
 
-## 🎮 Como usar
+##  Como usar
 
 | Ação | Comando |
 |------|---------|
@@ -53,7 +53,7 @@ Uma barra de voz flutuante que fica sempre visível na sua tela.
 
 ---
 
-## 📦 Criar executável (.exe / .dmg)
+##  Criar executável (.exe / .dmg)
 
 Para gerar um instalador:
 
@@ -67,10 +67,10 @@ O arquivo ficará na pasta `dist/`.
 
 ---
 
-## 🔑 Chave API Groq
+## Chave API Groq
 
 A Groq oferece uma camada gratuita generosa. Crie sua conta em:
-👉 https://console.groq.com
+ https://console.groq.com
 
 ---
 
